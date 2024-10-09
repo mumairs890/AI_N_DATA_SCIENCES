@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-I did it 
-hurrrrrry
-=======
-This is a test file that I have made today during the class.
->>>>>>> 342331d6d1db042b862c7c2fdae22d91fb76323c
